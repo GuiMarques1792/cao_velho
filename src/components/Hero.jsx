@@ -14,7 +14,7 @@ const Hero = () => {
         <div className=" flex gap-60 text-white text-6xl mt-24">
             <a href="" className="hover:text-[#fcd555] cursor-pointer transition-all duration-200 ease-in-out hover:scale-110" > CONTACTOS </a>
             <div className="h-12 border-2 border-white items-center " /> 
-            <a href="" className="hover:text-[#fcd555] cursor-pointer transition-all duration-200 ease-in-out hover:scale-110" > RESERVAR </a>
+            <a href="" className="hover:text-[#fcd555] cursor-pointer transition-all duration-200 ease-in-out hover:scale-110" > PREÇARIO </a>
         </div>
 
         {/* Image Logo name */}
